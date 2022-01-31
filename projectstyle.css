@@ -1,0 +1,274 @@
+body{
+    font-family:"Roboto Light",sans-serif;
+}
+.wrapper{
+    max-width: 100%;
+    margin: 0 auto;
+}
+a{
+    font-size: 16px;
+    line-height: 24px;
+    color: #0B2330;
+    text-decoration: none;
+}
+.top_bar{
+    height: 47px;
+}
+.nav_menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo_wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+
+}
+.button1{
+    background: #0B2330;
+    color: white;
+    padding: 15px 29px 16px 29px;
+    border-radius: 4px;
+    margin-right: 15px;
+}
+.center_space1{
+    display: flex;
+    align-items: center;
+    column-gap: 56px;
+}
+.space2{
+    display: flex;
+    align-items: center;
+    column-gap: 24px;
+}
+.text1{
+    margin-top: 237px;
+    margin-left: 147px;
+}
+.text1 > p {
+    font-size: 22px;
+    color: #375361;
+}
+div > h1 {
+    font-weight: 100;
+    font-size: 60px;
+}
+
+.main_block{
+    display: flex;
+    justify-content: space-between;
+}
+.yellow_button{
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 15px 29px;
+}
+.white_button{
+    background: white;
+    border-radius: 4px;
+    padding: 15px 29px;
+    border-color: black;
+    margin-left: 16px;
+}
+.yellowblock{
+    display: flex;
+}
+.one_pic{
+    position: relative;
+    top: 30px;
+    left: 0;
+}
+.two_pic{
+    position: absolute;
+    top: 300px;
+    left: 840px;
+}
+.text_block_2{
+    margin-top: 179px ;
+    font-size: 42px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+
+}
+.all_elements_block{
+    margin-top: 59px;
+}
+.one_box{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    column-gap: 82xp;
+    margin: 0 174px;
+    row-gap: 16px;
+}
+.two_box{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    column-gap: 82xp;
+    margin: 0 174px;
+    row-gap: 16px;
+}
+.three_box{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    column-gap: 82xp;
+    margin: 0 174px;
+    row-gap: 16px;
+}
+.blue_block {
+    display: flex;
+    background-color: #51CEBC;
+    height: 494px;
+    weight: 1376px;
+    margin-top: 192px;
+}
+.text1_blue_block{
+    margin-top: 114px;
+    font-size: 34px;
+    font-weight: 100;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+}
+.text2_blue_block{
+    font-size: 22px;
+    line-height: 32px;
+    color: #0B2330;
+    margin-top: 35px;
+}
+.text3{
+    margin-top: 191px;
+    text-align: center;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+}
+h4{
+    font-weight: 100;
+}
+.ramka_foto1{
+    margin: 57px 264px 127px 265px;
+}
+.button_after_ramka{
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    border-radius: 4px;
+    padding: 14px 29px 16px 29px;
+    margin-left: 667px;
+}
+.purple_block{
+    display: flex;
+    background: #BD78F0;
+    border-radius: 10px;
+    margin-top: 160px;
+    margin-left: 148px;
+    height: 537px;
+    width: 1260px;
+}
+.foto_faces{
+    margin-left: -100px;
+
+}
+.text4_purple{
+    margin-left: 132px;
+    margin-top: 103px;
+    font-size: 42px;
+    font-weight: 100;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+
+}
+.text5_purple{
+    margin-left: 132px;
+    font-size: 17px;
+    line-height: 28px;
+    color: #0B2330;
+
+}
+.foto_solutions{
+    margin-top: 200px;
+    margin-left: 148px;
+}
+.text_after_solutions{
+    font-weight: 100;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+}
+.text_after_solutions2{
+    font-size: 22px;
+    line-height: 32px;
+    color: #375361;
+
+}
+.massage_text1{
+    font-weight: 100;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+
+}
+.massege_text2{
+    font-size: 17px;
+    line-height: 28px;
+    color: #375361;
+
+}
+.massage_label{
+    margin-top: 239px;
+    margin-left: 159px;
+}
+.button_massage{
+    margin-left: 148px;
+    background: white;
+    border: 1px solid #0B2330;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 14px 29px 16px 29px;
+}
+.relocate_picture{
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.video_label{
+    margin-top: 239px;
+    margin-left: 159px;
+}
+.video_text1{
+    font-weight: 100;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+}
+.video_text2{
+    font-size: 17px;
+    line-height: 28px;
+    color: #375361;
+}
+.main_video_block{
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.video_button{
+    margin-left: 148px;
+    background: white;
+    border: 1px solid #0B2330;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 14px 29px 16px 29px;
+}
+
